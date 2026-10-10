@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T14:26:26.635Z",
+  "updated": "2026-10-10T14:59:33.772Z",
   "guildId": "1554210300377563226",
   "channelId": "1554214242432065598",
   "announcements": [
@@ -13,8 +13,64 @@
       },
       "content": "Hello",
       "embeds": [],
+      "components": [],
+      "componentsV2": false,
       "attachments": 0,
       "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1558485658274631864"
+    },
+    {
+      "id": "1558485518033879140",
+      "timestamp": "2026-10-10T14:25:02.760000+00:00",
+      "edited": false,
+      "author": {
+        "name": "Laredo Utilities",
+        "avatar": "https://cdn.discordapp.com/avatars/1557826800661307513/1bfa2b783f0a5c560691b762fb756c26.png?size=64"
+      },
+      "content": "",
+      "embeds": [],
+      "components": [
+        {
+          "type": 17,
+          "components": [
+            {
+              "type": 10,
+              "content": "## 📢 HUGE REHALL"
+            },
+            {
+              "type": 14,
+              "divider": true
+            },
+            {
+              "type": 10,
+              "content": "Hey everyone,\nWe’ve just pushed a major update to the server and our bot. Here’s everything you need to know:\n🤖 Bot Update\nNew & improved commands\nFaster response times\nBetter logging and moderation tools\nFixed several bugs reported by staff\nOnline 24/7\n\n🔄 Discord Overhaul\nThe entire server has been reorganized for better structure and easier navigation.\n\nChannels, categories, and voice channels have been cleaned up and themed around Laredo.\n🎭 New Roles\nWe’ve added new roles to better organize the community and staff:\n\nUpdated department roles\nNew staff ranking roles\nSpecial access roles for scenes & sessions\n\n🔐 Permissions Update\nPermissions have been completely reworked:\n\nClearer access for each department\nBetter separation between staff, members, and visitors\nImproved security on staff & development channels\nScene and RF channels now have proper access control\n\nPlease re-check your roles and make sure everything looks correct.\n\nIf you’re missing a role or can’t access something you should be able to, open a ticket.\nThanks for your patience while we made these changes.\n\nEnjoy the new layout and updated bot!\n— Management Team"
+            },
+            {
+              "type": 14,
+              "divider": true
+            },
+            {
+              "type": 10,
+              "content": "-# Announced by @noah • Sat, 10 Oct 2026 14:25:02 GMT"
+            },
+            {
+              "type": 14,
+              "divider": true
+            },
+            {
+              "type": 12,
+              "items": [
+                {
+                  "url": "https://cdn.discordapp.com/attachments/1554214242432065598/1558485517509595136/divider_bar.png?ex=6acb9c3e&is=6aca4abe&hm=27bdb12fba5036ada6c582c3be410bd0ae06bb9f79ec25b42dde347aaff463a0&",
+                  "description": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "componentsV2": true,
+      "attachments": 0,
+      "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1558485518033879140"
     },
     {
       "id": "1558485516486311978",
@@ -26,6 +82,8 @@
       },
       "content": "@Announcment Ping",
       "embeds": [],
+      "components": [],
+      "componentsV2": false,
       "attachments": 0,
       "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1558485516486311978"
     },
@@ -39,6 +97,8 @@
       },
       "content": "@Announcment Ping",
       "embeds": [],
+      "components": [],
+      "componentsV2": false,
       "attachments": 0,
       "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1558243917034557562"
     },
@@ -52,6 +112,8 @@
       },
       "content": "Lockdown has been removed all systems operationell",
       "embeds": [],
+      "components": [],
+      "componentsV2": false,
       "attachments": 0,
       "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1557843426794541209"
     },
@@ -65,6 +127,8 @@
       },
       "content": "@everyone",
       "embeds": [],
+      "components": [],
+      "componentsV2": false,
       "attachments": 0,
       "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1557842954364653629"
     },
@@ -78,6 +142,8 @@
       },
       "content": "📢 Announcement\n\nSome people have been saying that I was mean to a group of boys. That is not true.\n\nHere’s what really happened:\n\nSome members sent NSFW pictures in this server.\nI reported them.\nThey got angry at me for reporting.\n\nI have already reported this to Discord and to my local police department. I also have logs and 4 pictures as proof.\n\nPlease don’t spread rumors. If you have questions, message me or a mod.\n\nThank you for understanding. 💙",
       "embeds": [],
+      "components": [],
+      "componentsV2": false,
       "attachments": 0,
       "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1557842921246564415"
     },
@@ -91,6 +157,8 @@
       },
       "content": "📢 LOCK DOWN NOTICE\nFull lockdown in FULL EFFECT NO TYPING, OR ANYTHING \nWe will notify when lockdown has been lifted\n\n||@everyone ||",
       "embeds": [],
+      "components": [],
+      "componentsV2": false,
       "attachments": 0,
       "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1557816106046197781"
     },
@@ -104,6 +172,8 @@
       },
       "content": "@everyone giveaway is over, another robux giveaway will start in 1-2 days with 1k robux",
       "embeds": [],
+      "components": [],
+      "componentsV2": false,
       "attachments": 0,
       "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1557108724462522381"
     },
@@ -117,6 +187,8 @@
       },
       "content": "Management Team+ dm me for code",
       "embeds": [],
+      "components": [],
+      "componentsV2": false,
       "attachments": 0,
       "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1557039163386101803"
     },
@@ -130,6 +202,8 @@
       },
       "content": "Management Team + has instant code",
       "embeds": [],
+      "components": [],
+      "componentsV2": false,
       "attachments": 0,
       "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1557039060013547552"
     },
@@ -143,6 +217,8 @@
       },
       "content": "@everyone  📢 EARLY ACCESS ANNOUNCEMENT\n\nHey folks, hope you're having a good day!\n\nToday we're releasing Early Access, which leadership has kept hidden for some weeks.\n\nWho can join?\nEarly Access members can join the server to see liveries and to train their departments. We've changed the codes so Head Developers and Early Access members can join.\n\nHow to get Early Access\nDM SGG and tell them about your intentions and why we should choose you.\n\nWhat you get\n\nA look at early liveries, such as staff liveries, medic liveries and more\n2 extra commands\nIf you're a Department Head, this is really worth it\n\n⚠️ Rules\n\nNo leaking\nNo copying liveries\nNo ruining any liveries\n\nIf you break these rules, we will report you to the rules department inside ERLC and 76 other servers. You will most likely be banned.",
       "embeds": [],
+      "components": [],
+      "componentsV2": false,
       "attachments": 0,
       "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1557037752925692035"
     },
@@ -156,6 +232,8 @@
       },
       "content": "# ALSO ADDED THE STARTING POLICE CAR LIVERY",
       "embeds": [],
+      "components": [],
+      "componentsV2": false,
       "attachments": 2,
       "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1556414425043574904"
     },
@@ -169,6 +247,8 @@
       },
       "content": "# 2 NEW STAFF LIVERYS \n\n** What do you think? **",
       "embeds": [],
+      "components": [],
+      "componentsV2": false,
       "attachments": 2,
       "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1556413649201926336"
     },
@@ -182,21 +262,10 @@
       },
       "content": "@everyone  if anybody boost 7 times thye will get 500 robux stright up!",
       "embeds": [],
+      "components": [],
+      "componentsV2": false,
       "attachments": 0,
       "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1556325816437313547"
-    },
-    {
-      "id": "1555270291746459689",
-      "timestamp": "2026-10-01T17:28:53.077000+00:00",
-      "edited": false,
-      "author": {
-        "name": "SGG",
-        "avatar": "https://cdn.discordapp.com/avatars/1472679885628641473/9bd83b93d9171af0ff3346177ebca001.png?size=64"
-      },
-      "content": "you got 45 hours on yall",
-      "embeds": [],
-      "attachments": 0,
-      "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1555270291746459689"
     }
   ]
 }
