@@ -1,8 +1,77 @@
 {
-  "updated": "2026-10-10T15:26:28.418Z",
+  "updated": "2026-10-10T22:50:25.959Z",
   "guildId": "1554210300377563226",
   "channelId": "1554214242432065598",
   "announcements": [
+    {
+      "id": "1558609207345807433",
+      "timestamp": "2026-10-10T22:36:32.590000+00:00",
+      "edited": false,
+      "author": {
+        "name": "Laredo Utilities",
+        "avatar": "https://cdn.discordapp.com/avatars/1557826800661307513/1bfa2b783f0a5c560691b762fb756c26.png?size=64"
+      },
+      "content": "",
+      "embeds": [],
+      "components": [
+        {
+          "type": 17,
+          "components": [
+            {
+              "type": 10,
+              "content": "## 📢 Mental health day"
+            },
+            {
+              "type": 14,
+              "divider": true
+            },
+            {
+              "type": 10,
+              "content": "💚 World Mental Health Day — October 10\n\nRemember, you are never alone. It's okay to ask for help, and your mental health matters. Be kind to others and check in on your friends. 💚\n\n📞 Helplines\n\n🇳🇴 Norway:\n\n* Mental Helse: 116 123\n\n* Children and Young People: 116 111\n\n* Emergency: 113\n\n* Online support: [https://findahelpline.com/](https://findahelpline.com/)\n\n🌍 Worldwide: [https://findahelpline.com/](https://findahelpline.com/)\n\nYou matter. You are not alone. 💚"
+            },
+            {
+              "type": 14,
+              "divider": true
+            },
+            {
+              "type": 10,
+              "content": "-# Announced by @SGG • Sat, 10 Oct 2026 22:36:32 GMT"
+            },
+            {
+              "type": 14,
+              "divider": true
+            },
+            {
+              "type": 12,
+              "items": [
+                {
+                  "url": "https://cdn.discordapp.com/attachments/1554214242432065598/1558609206985228308/divider_bar.png?ex=6acc0f70&is=6acabdf0&hm=331bcc91185b576692b13c04cbd4731799e23a3d00fb420341dece32144c91fc&",
+                  "description": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "componentsV2": true,
+      "attachments": 0,
+      "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1558609207345807433"
+    },
+    {
+      "id": "1558609205676609627",
+      "timestamp": "2026-10-10T22:36:32.192000+00:00",
+      "edited": false,
+      "author": {
+        "name": "Laredo Utilities",
+        "avatar": "https://cdn.discordapp.com/avatars/1557826800661307513/1bfa2b783f0a5c560691b762fb756c26.png?size=64"
+      },
+      "content": "@Announcment Ping",
+      "embeds": [],
+      "components": [],
+      "componentsV2": false,
+      "attachments": 0,
+      "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1558609205676609627"
+    },
     {
       "id": "1558485658274631864",
       "timestamp": "2026-10-10T14:25:36.196000+00:00",
