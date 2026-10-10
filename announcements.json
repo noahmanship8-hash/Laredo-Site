@@ -1,44 +1,202 @@
 {
-  "updated": "2026-10-10T11:37:33.615Z",
+  "updated": "2026-10-10T13:57:22.287Z",
   "guildId": "1554210300377563226",
-  "channelId": "1558191230607822878",
+  "channelId": "1554214242432065598",
   "announcements": [
     {
-      "id": "300",
-      "timestamp": "2026-10-10T15:00:00.000000+00:00",
+      "id": "1558243917034557562",
+      "timestamp": "2026-10-09T22:25:00.593000+00:00",
       "edited": false,
       "author": {
-        "name": "Laredo Owner",
-        "avatar": "https://cdn.discordapp.com/avatars/111/abc123.png?size=64"
+        "name": "Laredo Utilities",
+        "avatar": "https://cdn.discordapp.com/avatars/1557826800661307513/1bfa2b783f0a5c560691b762fb756c26.png?size=64"
       },
-      "content": "# Server update\n**Big news!** Read #announcements and ping @Members or @Bob.\n- Item one\n- Item two\n> quoted line <:wave:999>",
+      "content": "@Announcment Ping",
       "embeds": [],
-      "attachments": 1,
-      "url": "https://discord.com/channels/1554210300377563226/1558191230607822878/300"
+      "attachments": 0,
+      "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1558243917034557562"
     },
     {
-      "id": "298",
-      "timestamp": "2026-10-09T10:00:00.000000+00:00",
-      "edited": true,
+      "id": "1557843426794541209",
+      "timestamp": "2026-10-08T19:53:36.279000+00:00",
+      "edited": false,
       "author": {
-        "name": "mod",
-        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png"
+        "name": "Remco",
+        "avatar": "https://cdn.discordapp.com/avatars/1412451869636300883/72daf2c7c91cecf6929fcce55c61274d.png?size=64"
       },
-      "content": "",
-      "embeds": [
-        {
-          "title": "Embed title",
-          "description": "Embed *text*",
-          "fields": [
-            {
-              "name": "Field",
-              "value": "Value"
-            }
-          ]
-        }
-      ],
+      "content": "Lockdown has been removed all systems operationell",
+      "embeds": [],
       "attachments": 0,
-      "url": "https://discord.com/channels/1554210300377563226/1558191230607822878/298"
+      "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1557843426794541209"
+    },
+    {
+      "id": "1557842954364653629",
+      "timestamp": "2026-10-08T19:51:43.643000+00:00",
+      "edited": false,
+      "author": {
+        "name": "SGG",
+        "avatar": "https://cdn.discordapp.com/avatars/1472679885628641473/9bd83b93d9171af0ff3346177ebca001.png?size=64"
+      },
+      "content": "@everyone",
+      "embeds": [],
+      "attachments": 0,
+      "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1557842954364653629"
+    },
+    {
+      "id": "1557842921246564415",
+      "timestamp": "2026-10-08T19:51:35.747000+00:00",
+      "edited": false,
+      "author": {
+        "name": "SGG",
+        "avatar": "https://cdn.discordapp.com/avatars/1472679885628641473/9bd83b93d9171af0ff3346177ebca001.png?size=64"
+      },
+      "content": "📢 Announcement\n\nSome people have been saying that I was mean to a group of boys. That is not true.\n\nHere’s what really happened:\n\nSome members sent NSFW pictures in this server.\nI reported them.\nThey got angry at me for reporting.\n\nI have already reported this to Discord and to my local police department. I also have logs and 4 pictures as proof.\n\nPlease don’t spread rumors. If you have questions, message me or a mod.\n\nThank you for understanding. 💙",
+      "embeds": [],
+      "attachments": 0,
+      "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1557842921246564415"
+    },
+    {
+      "id": "1557816106046197781",
+      "timestamp": "2026-10-08T18:05:02.505000+00:00",
+      "edited": false,
+      "author": {
+        "name": "Remco",
+        "avatar": "https://cdn.discordapp.com/avatars/1412451869636300883/72daf2c7c91cecf6929fcce55c61274d.png?size=64"
+      },
+      "content": "📢 LOCK DOWN NOTICE\nFull lockdown in FULL EFFECT NO TYPING, OR ANYTHING \nWe will notify when lockdown has been lifted\n\n||@everyone ||",
+      "embeds": [],
+      "attachments": 0,
+      "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1557816106046197781"
+    },
+    {
+      "id": "1557108724462522381",
+      "timestamp": "2026-10-06T19:14:09.593000+00:00",
+      "edited": false,
+      "author": {
+        "name": "SGG",
+        "avatar": "https://cdn.discordapp.com/avatars/1472679885628641473/9bd83b93d9171af0ff3346177ebca001.png?size=64"
+      },
+      "content": "@everyone giveaway is over, another robux giveaway will start in 1-2 days with 1k robux",
+      "embeds": [],
+      "attachments": 0,
+      "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1557108724462522381"
+    },
+    {
+      "id": "1557039163386101803",
+      "timestamp": "2026-10-06T14:37:44.940000+00:00",
+      "edited": false,
+      "author": {
+        "name": "SGG",
+        "avatar": "https://cdn.discordapp.com/avatars/1472679885628641473/9bd83b93d9171af0ff3346177ebca001.png?size=64"
+      },
+      "content": "Management Team+ dm me for code",
+      "embeds": [],
+      "attachments": 0,
+      "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1557039163386101803"
+    },
+    {
+      "id": "1557039060013547552",
+      "timestamp": "2026-10-06T14:37:20.294000+00:00",
+      "edited": false,
+      "author": {
+        "name": "SGG",
+        "avatar": "https://cdn.discordapp.com/avatars/1472679885628641473/9bd83b93d9171af0ff3346177ebca001.png?size=64"
+      },
+      "content": "Management Team + has instant code",
+      "embeds": [],
+      "attachments": 0,
+      "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1557039060013547552"
+    },
+    {
+      "id": "1557037752925692035",
+      "timestamp": "2026-10-06T14:32:08.660000+00:00",
+      "edited": false,
+      "author": {
+        "name": "SGG",
+        "avatar": "https://cdn.discordapp.com/avatars/1472679885628641473/9bd83b93d9171af0ff3346177ebca001.png?size=64"
+      },
+      "content": "@everyone  📢 EARLY ACCESS ANNOUNCEMENT\n\nHey folks, hope you're having a good day!\n\nToday we're releasing Early Access, which leadership has kept hidden for some weeks.\n\nWho can join?\nEarly Access members can join the server to see liveries and to train their departments. We've changed the codes so Head Developers and Early Access members can join.\n\nHow to get Early Access\nDM SGG and tell them about your intentions and why we should choose you.\n\nWhat you get\n\nA look at early liveries, such as staff liveries, medic liveries and more\n2 extra commands\nIf you're a Department Head, this is really worth it\n\n⚠️ Rules\n\nNo leaking\nNo copying liveries\nNo ruining any liveries\n\nIf you break these rules, we will report you to the rules department inside ERLC and 76 other servers. You will most likely be banned.",
+      "embeds": [],
+      "attachments": 0,
+      "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1557037752925692035"
+    },
+    {
+      "id": "1556414425043574904",
+      "timestamp": "2026-10-04T21:15:15.712000+00:00",
+      "edited": false,
+      "author": {
+        "name": "noah",
+        "avatar": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "content": "# ALSO ADDED THE STARTING POLICE CAR LIVERY",
+      "embeds": [],
+      "attachments": 2,
+      "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1556414425043574904"
+    },
+    {
+      "id": "1556413649201926336",
+      "timestamp": "2026-10-04T21:12:10.737000+00:00",
+      "edited": false,
+      "author": {
+        "name": "noah",
+        "avatar": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "content": "# 2 NEW STAFF LIVERYS \n\n** What do you think? **",
+      "embeds": [],
+      "attachments": 2,
+      "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1556413649201926336"
+    },
+    {
+      "id": "1556325816437313547",
+      "timestamp": "2026-10-04T15:23:09.774000+00:00",
+      "edited": false,
+      "author": {
+        "name": "SGG",
+        "avatar": "https://cdn.discordapp.com/avatars/1472679885628641473/9bd83b93d9171af0ff3346177ebca001.png?size=64"
+      },
+      "content": "@everyone  if anybody boost 7 times thye will get 500 robux stright up!",
+      "embeds": [],
+      "attachments": 0,
+      "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1556325816437313547"
+    },
+    {
+      "id": "1555270291746459689",
+      "timestamp": "2026-10-01T17:28:53.077000+00:00",
+      "edited": false,
+      "author": {
+        "name": "SGG",
+        "avatar": "https://cdn.discordapp.com/avatars/1472679885628641473/9bd83b93d9171af0ff3346177ebca001.png?size=64"
+      },
+      "content": "you got 45 hours on yall",
+      "embeds": [],
+      "attachments": 0,
+      "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1555270291746459689"
+    },
+    {
+      "id": "1555244755112300656",
+      "timestamp": "2026-10-01T15:47:24.669000+00:00",
+      "edited": false,
+      "author": {
+        "name": "SGG",
+        "avatar": "https://cdn.discordapp.com/avatars/1472679885628641473/9bd83b93d9171af0ff3346177ebca001.png?size=64"
+      },
+      "content": "@everyone u got plenty of hours to join",
+      "embeds": [],
+      "attachments": 0,
+      "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1555244755112300656"
+    },
+    {
+      "id": "1555244623914598451",
+      "timestamp": "2026-10-01T15:46:53.389000+00:00",
+      "edited": false,
+      "author": {
+        "name": "SGG",
+        "avatar": "https://cdn.discordapp.com/avatars/1472679885628641473/9bd83b93d9171af0ff3346177ebca001.png?size=64"
+      },
+      "content": "https://discord.com/events/1554210300377563226/1555244572932571337🎉 900 ROBUX GIVEAWAY! 🎉\n\nThe giveaway will end on October 9th! 🗓️\nThe most active person on the Discord, based on VC activity and chat activity, will win 900 ROBUX! 💰\n\nGood luck, everyone! 🍀🔥",
+      "embeds": [],
+      "attachments": 0,
+      "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1555244623914598451"
     }
   ]
 }
