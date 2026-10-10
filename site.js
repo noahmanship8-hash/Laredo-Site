@@ -192,12 +192,37 @@
     if (post.content) html += '<div class="msg">' + renderMarkdown(post.content) + '</div>';
     (post.embeds || []).forEach(function (embed) {
       var inner = '';
-      if (embed.title) inner += '<p class="msg-h">' + inline(embed.title) + '</p>';
+      var color = Number(embed.color);
+      var style = Number.isFinite(color) && color >= 0 && color <= 0xFFFFFF
+        ? ' style="--embed-color:#' + color.toString(16).padStart(6, '0') + '"' : '';
+      if (embed.author && embed.author.name) {
+        inner += '<div class="embed-author">' +
+          (safeDiscordImage(embed.author.iconUrl) ? '<img alt="" src="' + esc(embed.author.iconUrl) + '">' : '') +
+          (embed.author.url && safeHttpUrl(embed.author.url) ? '<a href="' + esc(embed.author.url) + '" target="_blank" rel="noopener noreferrer">' + inline(embed.author.name) + '</a>' : inline(embed.author.name)) +
+          '</div>';
+      }
+      if (embed.title) {
+        inner += '<p class="msg-h">' + (embed.url && safeHttpUrl(embed.url)
+          ? '<a href="' + esc(embed.url) + '" target="_blank" rel="noopener noreferrer">' + inline(embed.title) + '</a>'
+          : inline(embed.title)) + '</p>';
+      }
       if (embed.description) inner += renderMarkdown(embed.description);
-      (embed.fields || []).forEach(function (f) {
-        inner += '<p><strong>' + inline(f.name) + '</strong><br>' + inline(f.value).replace(/\n/g, '<br>') + '</p>';
-      });
-      if (inner) html += '<div class="msg msg-embed">' + inner + '</div>';
+      if (embed.fields && embed.fields.length) {
+        inner += '<div class="embed-fields">';
+        embed.fields.forEach(function (f) {
+          inner += '<div class="embed-field' + (f.inline ? ' is-inline' : '') + '"><strong>' + inline(f.name) + '</strong><div>' + renderMarkdown(f.value) + '</div></div>';
+        });
+        inner += '</div>';
+      }
+      if (safeDiscordImage(embed.image)) inner += '<img class="embed-image" alt="" loading="lazy" src="' + esc(embed.image) + '">';
+      if (safeDiscordImage(embed.thumbnail)) inner += '<img class="embed-thumbnail" alt="" loading="lazy" src="' + esc(embed.thumbnail) + '">';
+      if (embed.footer && embed.footer.text) {
+        inner += '<div class="embed-footer">' +
+          (safeDiscordImage(embed.footer.iconUrl) ? '<img alt="" src="' + esc(embed.footer.iconUrl) + '">' : '') +
+          '<span>' + inline(embed.footer.text) + '</span>' +
+          (embed.timestamp ? '<time>' + esc(formatDate(embed.timestamp)) + '</time>' : '') + '</div>';
+      }
+      if (inner) html += '<div class="msg msg-embed"' + style + '>' + inner + '</div>';
     });
     if (post.attachments) {
       html += '<p class="msg-note">This post includes ' + post.attachments + ' attachment' +
@@ -208,6 +233,13 @@
         '" target="_blank" rel="noopener noreferrer">View in Discord</a></div>';
     }
     return html + '</article>';
+  }
+
+  function safeHttpUrl(value) { return /^https:\/\//i.test(value || ''); }
+  function safeDiscordImage(value) { return /^https:\/\/(cdn\.discordapp\.com|media\.discordapp\.net)\//i.test(value || ''); }
+  function formatDate(value) {
+    try { return new Date(value).toLocaleString(undefined, { dateStyle: 'medium', timeStyle: 'short' }); }
+    catch (e) { return ''; }
   }
 
   function loadFeed() {
