@@ -1,0 +1,44 @@
+{
+  "updated": "2026-10-10T11:37:33.615Z",
+  "guildId": "1554210300377563226",
+  "channelId": "1558191230607822878",
+  "announcements": [
+    {
+      "id": "300",
+      "timestamp": "2026-10-10T15:00:00.000000+00:00",
+      "edited": false,
+      "author": {
+        "name": "Laredo Owner",
+        "avatar": "https://cdn.discordapp.com/avatars/111/abc123.png?size=64"
+      },
+      "content": "# Server update\n**Big news!** Read #announcements and ping @Members or @Bob.\n- Item one\n- Item two\n> quoted line <:wave:999>",
+      "embeds": [],
+      "attachments": 1,
+      "url": "https://discord.com/channels/1554210300377563226/1558191230607822878/300"
+    },
+    {
+      "id": "298",
+      "timestamp": "2026-10-09T10:00:00.000000+00:00",
+      "edited": true,
+      "author": {
+        "name": "mod",
+        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "content": "",
+      "embeds": [
+        {
+          "title": "Embed title",
+          "description": "Embed *text*",
+          "fields": [
+            {
+              "name": "Field",
+              "value": "Value"
+            }
+          ]
+        }
+      ],
+      "attachments": 0,
+      "url": "https://discord.com/channels/1554210300377563226/1558191230607822878/298"
+    }
+  ]
+}
