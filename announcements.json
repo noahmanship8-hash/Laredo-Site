@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T14:35:04.683Z",
+  "updated": "2026-10-11T14:51:41.909Z",
   "guildId": "1554210300377563226",
   "channelId": "1554214242432065598",
   "announcements": [
@@ -71,21 +71,6 @@
       "componentsV2": false,
       "attachments": 0,
       "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1558609205676609627"
-    },
-    {
-      "id": "1558485658274631864",
-      "timestamp": "2026-10-10T14:25:36.196000+00:00",
-      "edited": false,
-      "author": {
-        "name": "noah",
-        "avatar": "https://cdn.discordapp.com/embed/avatars/5.png"
-      },
-      "content": "Hello",
-      "embeds": [],
-      "components": [],
-      "componentsV2": false,
-      "attachments": 0,
-      "url": "https://discord.com/channels/1554210300377563226/1554214242432065598/1558485658274631864"
     },
     {
       "id": "1558485518033879140",
